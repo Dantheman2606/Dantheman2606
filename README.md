@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a second-year Computer Engineering student passionate about building real-world web applications that solve problems efficiently. I enjoy working across the stack—from designing clean frontends to building robust backend systems—and I’m always eager to dive into new technologies. I’m particularly interested in integrating AI/ML into my projects to make them smarter and more impactful.
+I'm a third-year Computer Engineering student passionate about building real-world web applications that solve problems efficiently. I enjoy working across the stack—from designing clean frontends to building robust backend systems—and I’m always eager to dive into new technologies. I’m particularly interested in integrating AI/ML into my projects to make them smarter and more impactful.
 
 ---
 
