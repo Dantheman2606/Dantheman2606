@@ -19,6 +19,18 @@ I'm a third-year Computer Engineering student passionate about building real-wor
 ---
 
 ## 🚀 Projects
+### 🔹 [DocuBoard – Real-time Collaboration & Project Management Tool](https://github.com/Dantheman2606/docuboard)
+A **Confluence-style documentation editor** combined with a **Jira-like Kanban system**, designed for seamless team collaboration and intuitive project navigation.
+- **Real-time collaborative editing** — Implemented using Y.js with TipTap’s collaboration extension and a y-websocket server for **live multi-user synchronization and cursor presence**.
+
+- **Version control system** — Uses serialized TipTap JSON snapshots, stored with timestamps and authors; integrates **diff-match-patch** for version **comparison and restoration**.
+- **Kanban board architecture** — Built with @hello-pangea/dnd for drag-and-drop, using **Zustand** for local state and **React Query** for mutation syncing and optimistic UI updates.
+- **Role-based access control** — Role data stored in Zustand; components conditionally rendered to enforce Owner/Admin/Editor/Viewer permissions directly in the UI layer.
+- **Unified activity feed and mentions** — Local pub/sub model with React Query cache updates and **react-hot-toast for real-time user mentions and activity notifications**.
+
+Tech Stack: Next.js, React, TypeScript, Tailwind CSS, Shadcn, Zustand, React Query, TipTap, Y.js
+
+---
 
 ### 🔹 [Insightly – Reviews Collection Website](https://github.com/adityabhalgat/PBL_SE)
 A high-quality platform that allows users to submit verified product reviews in exchange for monetary incentives.  
